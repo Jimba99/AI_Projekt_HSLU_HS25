@@ -2,3 +2,4 @@
 Datenanalyse für das AI-Projek
 
 02.12.25 - Repository erstellt
+Author: Matthias Bänziger
