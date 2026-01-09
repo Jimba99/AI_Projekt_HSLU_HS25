@@ -19,3 +19,8 @@ Quelle: https://huggingface.co/AdamCodd/yolos-small-person
 Dieses Modell wird mit denselben Bilddaten evaluiert wie das selbsttrainierte neuronale Netz. Die vom YOLOS-Modell vorhergesagte Anzahl an Personen wird ebenfalls in die definierten Grössenklassen eingeteilt. Abschliessend erfolgt der Vergleich zwischen den beiden Modellen. 
 
 ## Dokumente:
+YOLO-FACE_Modell.ipynb: Modell basiserend auf dem YOLO-SMALL-PERSON-MODELL. Das Modell wurde mit anderen Trainingsdaten trainiert. Die gesamte Datensatz, welcher im selbstgebauten Modell als Trainings- und Testdaten verwendet wurde. 
+- **Dieses Notebook** muss zwingend in der **GPUHUB-Umgebung PYTORCH** ausgeführt werden.
+
+AI_Einzelprojekt_selbgebautes_Modell.ipynb: Selbsterstelltes Modell basierend auf einem CNN.
+- **Dieses Notebook** muss zwingend in der ** GPUHUB-Umgebung Tenserflow** ausgeführt werden.
