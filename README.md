@@ -18,4 +18,3 @@ Zur Bewertung der Leistungsfähigkeit des selbst entwickelten Modells wird zusä
 Dieses Modell wird mit denselben Bilddaten evaluiert wie das selbsttrainierte neuronale Netz. Die vom YOLOS-Modell vorhergesagte Anzahl an Personen wird ebenfalls in die definierten Grössenklassen eingeteilt. Abschliessend erfolgt der Vergleich zwischen den beiden Modellen. 
 
 ## Dokumente:
-
