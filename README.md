@@ -13,7 +13,7 @@ Die verwendeten Grössenklassen sind wie folgt definiert:
 Als Trainingsdatensatz werden 2000 Bilder verwendet, die zwischen 0 und maximal 55 Personen pro Bild enthalten. 
 Quelle: https://www.kaggle.com/datasets/fmena14/crowd-counting/code
 
-Zur Bewertung der Leistungsfähigkeit des selbst entwickelten Modells wird zusätzlich ein vortrainiertes Modell aus der Hugging Face Model Library eingesetzt, konkret das Modell „*yolos-small-person*“. 
+Zur Bewertung der Leistungsfähigkeit des selbst entwickelten Modells wird zusätzlich ein vortrainiertes Modell aus der Hugging Face Model Library eingesetzt, konkret das Modell „*yolos-small-person*“.
 Quelle: https://huggingface.co/AdamCodd/yolos-small-person
 
 Dieses Modell wird mit denselben Bilddaten evaluiert wie das selbsttrainierte neuronale Netz. Die vom YOLOS-Modell vorhergesagte Anzahl an Personen wird ebenfalls in die definierten Grössenklassen eingeteilt. Abschliessend erfolgt der Vergleich zwischen den beiden Modellen. 
